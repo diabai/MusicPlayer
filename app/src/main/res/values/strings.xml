@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="tv_text">Ibrahim\'s Music Player</string>
+    <string name="time">Time</string>
+    <string name="song_title">Song title</string>
+
+</resources>
