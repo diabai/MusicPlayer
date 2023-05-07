@@ -1,6 +1,7 @@
 # MusicPlayer
 
-![alt text](https://github.com/diabai/MusicPlayer/blob/main/ibrahim-music-player.JPG)
+![Alt text](relative%20/app/src/main/res/drawable/ibrahim-music-player.JPG?raw=true "Title")
+
 
 
 
